@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header-title{
+
+    background-image:url('resources/Banner\ Image.png');
+ background-repeat: no-repeat;
+ background-position: center;
+ color: rgb(255, 255, 255);
+ text-align: center;
+ display: flex;
+ justify-content: center;
+ align-items: center; 
+ height: 600px;
+ flex-direction: column;
+
+
+}
+
+
+.font-color{
+    font-size: 5rem;
+    font: bold;
+}
